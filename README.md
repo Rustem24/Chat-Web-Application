@@ -1,6 +1,11 @@
 # Chat Web Application
 
--This is a chat web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). This repository contains the code for a real-time chat application where users can send and receive messages instantly.
+-This is a chat web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). This repository contains the code for a real-time chat application where users can send and receive messages + files instantly.
+
+
+https://github.com/Rustem24/Chat-Web-Application/assets/66631724/e23dd8ea-2258-4b73-b74d-aa47239c7e7a
+
+
 
 #Features
 -Real-time messaging
@@ -14,15 +19,6 @@ Frontend: React
 Backend: Node.js, Express.js
 Database: MongoDB
 Real-time Communication: WebSocket
-
-#Getting Started
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
-
-Prerequisites
-Make sure you have the following installed on your machine:
-
-Node.js
-MongoDB
 
 How to open the project?
 -cd client
