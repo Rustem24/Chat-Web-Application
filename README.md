@@ -7,20 +7,20 @@ https://github.com/Rustem24/Chat-Web-Application/assets/66631724/e23dd8ea-2258-4
 
 
 
-#Features
+# Features
 -Real-time messaging  
 -User authentication  
 -Online/offline status indication  
 -File sharing  
 -Smooth scrolling for new messages  
 
-#Tech Stack
+# Tech Stack
 Frontend: React  
 Backend: Node.js, Express.js  
 Database: MongoDB  
 Real-time Communication: WebSocket  
 
-How to open the project?
+# How to open the project?
 -cd client  
 -yarn  
 -yarn dev  
